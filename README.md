@@ -1,2 +1,2 @@
 ##What's This
-通用的CommonPod
+这是一个模板CommonPod
