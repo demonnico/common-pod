@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>zh_CN</string>
 	<key>CFBundleDisplayName</key>
-	<string>欢乐360天</string>
+	<string>项目A</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.holy.360</string>
+	<string>com.demo.projA</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -29,7 +29,7 @@
 			<string>wechat</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>wx95d76278eb747c67</string>
+				<string>wxxxx</string>
 			</array>
 		</dict>
 		<dict>
@@ -39,7 +39,7 @@
 			<string>weibo</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>wb3792958247</string>
+				<string>wbxxx</string>
 			</array>
 		</dict>
 	</array>

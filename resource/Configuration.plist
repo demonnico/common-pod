@@ -8,34 +8,6 @@
 		<string>d86e35</string>
 	</dict>
 	<key>ReleaseData</key>
-	<array>
-		<dict>
-			<key>thumb</key>
-			<string>icon_title_s</string>
-			<key>identify</key>
-			<string>hl360</string>
-			<key>type</key>
-			<integer>1</integer>
-			<key>title</key>
-			<string>欢乐360天</string>
-			<key>channelTag</key>
-			<string>欢乐360</string>
-		</dict>
-	</array>
-	<key>ReviewData</key>
-	<array>
-		<dict>
-			<key>thumb</key>
-			<string>icon_title_s</string>
-			<key>identify</key>
-			<string>hl360</string>
-			<key>type</key>
-			<string>1</string>
-			<key>title</key>
-			<string>欢乐360天</string>
-			<key>channelTag</key>
-			<string>欢乐360</string>
-		</dict>
-	</array>
+	<array/>
 </dict>
 </plist>
