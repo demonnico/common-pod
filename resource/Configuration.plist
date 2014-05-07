@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Style</key>
+	<dict>
+		<key>Color</key>
+		<string>d86e35</string>
+	</dict>
+	<key>ReleaseData</key>
+	<array>
+		<dict>
+			<key>thumb</key>
+			<string>icon_title_s</string>
+			<key>identify</key>
+			<string>hl360</string>
+			<key>type</key>
+			<integer>1</integer>
+			<key>title</key>
+			<string>欢乐360天</string>
+			<key>channelTag</key>
+			<string>欢乐360</string>
+		</dict>
+	</array>
+	<key>ReviewData</key>
+	<array>
+		<dict>
+			<key>thumb</key>
+			<string>icon_title_s</string>
+			<key>identify</key>
+			<string>hl360</string>
+			<key>type</key>
+			<string>1</string>
+			<key>title</key>
+			<string>欢乐360天</string>
+			<key>channelTag</key>
+			<string>欢乐360</string>
+		</dict>
+	</array>
+</dict>
+</plist>
